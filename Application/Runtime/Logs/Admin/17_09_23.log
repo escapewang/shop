@@ -1,0 +1,112 @@
+[ 2017-09-23T23:51:33+08:00 ] 127.0.0.1 /Admin/Goods/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : select b.* from shop_access as a left join shop_menu as b on a.menu_id=b.id where  a.role_id=
+
+[ 2017-09-23T23:51:35+08:00 ] 127.0.0.1 /Admin/Goods/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : select b.* from shop_access as a left join shop_menu as b on a.menu_id=b.id where  a.role_id=
+
+[ 2017-09-23T23:51:45+08:00 ] 127.0.0.1 /Admin/Role/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : select b.* from shop_access as a left join shop_menu as b on a.menu_id=b.id where  a.role_id=
+
+[ 2017-09-23T23:51:47+08:00 ] 127.0.0.1 /Admin/Menu/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : select b.* from shop_access as a left join shop_menu as b on a.menu_id=b.id where  a.role_id=
+
+[ 2017-09-23T23:51:48+08:00 ] 127.0.0.1 /Admin/user/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : select b.* from shop_access as a left join shop_menu as b on a.menu_id=b.id where  a.role_id=
+
+[ 2017-09-23T23:51:49+08:00 ] 127.0.0.1 /Admin/Brand/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : select b.* from shop_access as a left join shop_menu as b on a.menu_id=b.id where  a.role_id=
+
+[ 2017-09-23T23:51:50+08:00 ] 127.0.0.1 /Admin/Cate/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : select b.* from shop_access as a left join shop_menu as b on a.menu_id=b.id where  a.role_id=
+
+[ 2017-09-23T23:52:05+08:00 ] 127.0.0.1 /Admin/login/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:52:06+08:00 ] 127.0.0.1 /Admin/login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:52:07+08:00 ] 127.0.0.1 /Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007001s ]
+
+[ 2017-09-23T23:52:14+08:00 ] 127.0.0.1 /Admin/login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:52:16+08:00 ] 127.0.0.1 /Admin/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:52:16+08:00 ] 127.0.0.1 /admin/index/head.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:52:16+08:00 ] 127.0.0.1 /admin/index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:52:16+08:00 ] 127.0.0.1 /admin/index/right.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:52:19+08:00 ] 127.0.0.1 /Admin/Goods/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-09-23T23:52:28+08:00 ] 127.0.0.1 /Admin/Goods/photos/id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:52:30+08:00 ] 127.0.0.1 /Admin/Goods/ajaxDel.html?id=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_access` [ RunTime:0.0080s ]
+SQL: select b.* from shop_access as a left join shop_menu as b on a.menu_id=b.id where  a.role_id=1 [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `shop_goods_img` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `shop_goods_img` WHERE `id` = 9 LIMIT 1   [ RunTime:0.0010s ]
+SQL: DELETE FROM `shop_goods_img` WHERE `id` = 9 [ RunTime:0.0020s ]
+

@@ -1,0 +1,1230 @@
+[ 2017-09-23T23:39:05+08:00 ] 127.0.0.1 /Home/Goods/showlist/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:42:10+08:00 ] 127.0.0.1 /Home/Goods/showlist/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:42:10+08:00 ] 127.0.0.1 /Home/Goods/showlist/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-09-23T23:42:10+08:00 ] 127.0.0.1 /Home/Goods/showlist/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:42:10+08:00 ] 127.0.0.1 /Home/Goods/showlist/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:42:20+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/0-500.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:42:20+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:42:20+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:42:20+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-09-23T23:43:12+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:43:12+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/0-500.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-09-23T23:43:12+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:43:12+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:43:14+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/0-500.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:43:14+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:43:14+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-09-23T23:43:14+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:43:15+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:43:15+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:43:15+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:43:15+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/500-1000.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:43:17+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/1000.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:43:17+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:43:17+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:43:17+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:44:32+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/1000.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:44:32+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:44:32+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:44:32+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:44:35+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/500-1000.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:44:36+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:44:36+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:44:36+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:44:37+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:44:37+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:44:37+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:44:37+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/0-500.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:44:39+08:00 ] 127.0.0.1 /Home/Goods/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:44:39+08:00 ] 127.0.0.1 /Home/Goods/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.025002s ]
+
+[ 2017-09-23T23:44:39+08:00 ] 127.0.0.1 /Home/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:44:39+08:00 ] 127.0.0.1 /Home/Goods/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:44:40+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/0-500.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:44:40+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:44:40+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-09-23T23:44:40+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005001s ]
+
+[ 2017-09-23T23:44:41+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/0-500.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:44:41+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:44:41+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:44:41+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:44:42+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:44:42+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:44:42+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-09-23T23:44:42+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/0-500.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:01+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/0-500.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:01+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-23T23:45:01+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:45:01+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-23T23:45:02+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/500-1000.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:02+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:02+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:02+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-09-23T23:45:04+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-09-23T23:45:04+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:04+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:04+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/1000.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:06+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:06+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:06+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:06+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/0-500.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:07+08:00 ] 127.0.0.1 /Home/Goods/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:07+08:00 ] 127.0.0.1 /Home/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:07+08:00 ] 127.0.0.1 /Home/Goods/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:07+08:00 ] 127.0.0.1 /Home/Goods/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:09+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/0-500.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:09+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:09+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:09+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:10+08:00 ] 127.0.0.1 /Home/Goods/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:10+08:00 ] 127.0.0.1 /Home/Goods/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:10+08:00 ] 127.0.0.1 /Home/Goods/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:10+08:00 ] 127.0.0.1 /Home/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:11+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/500-1000.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:11+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:11+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:11+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:45:12+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/0-500.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:12+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:12+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:12+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:45:13+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/500-1000.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:13+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:13+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:13+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:14+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:45:14+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:14+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:14+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:16+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/1000.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:16+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:16+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:16+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:17+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/500-1000.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:17+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:45:17+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:45:17+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:18+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:18+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:18+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:45:18+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:45:19+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/0-500.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:20+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:20+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:20+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:20+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:21+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-09-23T23:45:21+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-09-23T23:45:21+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:23+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:45:23+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:45:23+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-09-23T23:45:23+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/0-500.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:45:24+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:24+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:24+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:24+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004001s ]
+
+[ 2017-09-23T23:45:25+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/500-1000.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:26+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:26+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:45:26+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:31+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/1000.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:31+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:45:31+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:45:31+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:48:05+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:05+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:05+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/1000.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:48:05+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-09-23T23:48:07+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/4/price/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:07+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/4/price/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:07+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/4/price/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:07+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/4/price/1000.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:09+08:00 ] 127.0.0.1 /Home/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:48:09+08:00 ] 127.0.0.1 /Home/Goods/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:48:09+08:00 ] 127.0.0.1 /Home/Goods/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:09+08:00 ] 127.0.0.1 /Home/Goods/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:14+08:00 ] 127.0.0.1 /Home/Goods/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:14+08:00 ] 127.0.0.1 /Home/Goods/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:48:14+08:00 ] 127.0.0.1 /Home/Goods/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:14+08:00 ] 127.0.0.1 /Home/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:16+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-09-23T23:48:16+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:16+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-09-23T23:48:16+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:18+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/1000/brand_id/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:48:18+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/1000/brand_id/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:48:18+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/1000/brand_id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:18+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/1000/brand_id/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-09-23T23:48:22+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/500-1000/brand_id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:22+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/500-1000/brand_id/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:22+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/500-1000/brand_id/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:22+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/500-1000/brand_id/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:24+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/0-500/brand_id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:24+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/0-500/brand_id/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:24+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/0-500/brand_id/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:24+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/0-500/brand_id/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:36+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/5/price/0-500.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:36+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/5/price/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:36+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/5/price/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:36+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/5/price/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:38+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/7/price/0-500.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:48:38+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/7/price/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:38+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/7/price/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:48:38+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/7/price/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:39+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/8/price/0-500.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:48:39+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/8/price/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:39+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/8/price/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:39+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/8/price/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:40+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/19/price/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:40+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/19/price/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:40+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/19/price/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:48:40+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/19/price/0-500.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:42+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/4/price/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:42+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/4/price/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:42+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/4/price/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:42+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/4/price/0-500.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-09-23T23:48:43+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/1/price/0-500.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:48:43+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/1/price/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:48:43+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/1/price/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:48:43+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/1/price/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-09-23T23:48:45+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/1000/brand_id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:48:45+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/1000/brand_id/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:45+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/1000/brand_id/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:45+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/1000/brand_id/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-09-23T23:48:47+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/4/price/1000.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:48:47+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/4/price/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:47+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/4/price/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-09-23T23:48:47+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/4/price/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:48:48+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/5/price/1000.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-09-23T23:48:48+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/5/price/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-09-23T23:48:48+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/5/price/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:48+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/5/price/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:56+08:00 ] 127.0.0.1 /Home/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:48:56+08:00 ] 127.0.0.1 /Home/Goods/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:48:56+08:00 ] 127.0.0.1 /Home/Goods/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:48:56+08:00 ] 127.0.0.1 /Home/Goods/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:49:58+08:00 ] 127.0.0.1 /Home/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:50:19+08:00 ] 127.0.0.1 /Home/Goods/showlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:50:19+08:00 ] 127.0.0.1 /Home/Goods/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:50:19+08:00 ] 127.0.0.1 /Home/Goods/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:50:19+08:00 ] 127.0.0.1 /Home/Goods/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:50:21+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:50:21+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:50:21+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:50:22+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:50:23+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/500-1000/brand_id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:50:23+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/500-1000/brand_id/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:50:23+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/500-1000/brand_id/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:50:23+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/500-1000/brand_id/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:50:24+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:50:24+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:50:24+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:50:24+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:50:29+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/1000/brand_id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:50:29+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/1000/brand_id/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:50:29+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/1000/brand_id/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:50:29+08:00 ] 127.0.0.1 /Home/Goods/showlist/price/1000/brand_id/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:50:40+08:00 ] 127.0.0.1 /Home/goods/detail/id/14.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:50:40+08:00 ] 127.0.0.1 /Home/goods/detail/id/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:50:40+08:00 ] 127.0.0.1 /Home/goods/detail/id/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:50:40+08:00 ] 127.0.0.1 /Home/goods/detail/id/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:50:52+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/5/price/1000.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:50:52+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/5/price/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:50:52+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/5/price/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:50:52+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/5/price/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:50:59+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:50:59+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:50:59+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:50:59+08:00 ] 127.0.0.1 /Home/Goods/showlist/brand_id/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:51:10+08:00 ] 127.0.0.1 /Home/goods/detail/id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:51:10+08:00 ] 127.0.0.1 /Home/goods/detail/id/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:51:10+08:00 ] 127.0.0.1 /Home/goods/detail/id/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:51:10+08:00 ] 127.0.0.1 /Home/goods/detail/id/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:52:36+08:00 ] 127.0.0.1 /Home/goods/detail/id/__HOME__/images/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:52:36+08:00 ] 127.0.0.1 /Home/goods/detail/id/__HOME__/images/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-09-23T23:52:36+08:00 ] 127.0.0.1 /Home/goods/detail/id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-09-23T23:52:36+08:00 ] 127.0.0.1 /Home/goods/detail/id/__HOME__/images/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+

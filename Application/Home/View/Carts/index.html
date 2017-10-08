@@ -1,0 +1,193 @@
+   <!-- 引入layer弹窗所需要的文件JQ版本在1.8以上， -->
+   <script type="text/javascript" src="__PUBLIC__/js/jquery-1.8.2.min.js"></script>
+   <script type="text/javascript" src="__PUBLIC__/layer/layer.js"></script>
+   <!--   引入layer弹窗所需要的文件-->
+         <style type="text/css">
+            table {border:1px solid #dddddd; border-collapse: collapse; width:99%; margin:auto;}
+            td {border:1px solid #dddddd;}
+            #consignee_addr {width:450px;}
+        </style>
+
+        <div class="block box">
+            <div class="blank"></div>
+            <div id="ur_here">
+                当前位置: <a href="#">首页</a> <code>&gt;</code> 购物流程 
+            </div>
+        </div>
+        <div class="blank"></div>
+
+        <div class="blank"></div>
+        <div class="block">
+            <div class="flowBox">
+                <h6><span>商品列表</span></h6>
+                <form id="formCart">
+                    <table cellpadding="5" cellspacing="1">
+                        <tbody><tr>
+                                <th>商品名称</th>
+                                <th>属性</th>
+                                <th>市场价</th>
+                                <th>本店价</th>
+                                <th>购买数量</th>
+                                <th>小计</th>
+                                <th>操作</th>
+                            </tr>
+
+
+
+
+                            <foreach name="datas" item="d">
+                            <tr>
+                                <td align="center">
+                                    <a href="#" target="_blank"><img style="width: 80px; height: 80px;" src="__PUBLIC__/Upload/goods/{$d.goods_thumb_img}" title="P806" /></a><br />
+                                    <a href="#" target="_blank" class="f6">{$d.goods_title}</a>
+                                </td>
+                                <td>
+                                <foreach name="d.val" item="dd" key="key">
+                                {$key}:{$dd} <br>
+                                 </foreach>
+                                </td>
+                               
+                                <td align="right">￥{$d.goods_mprice}元</td>
+                                <td align="right">￥<span class="pri">{$d.goods_price}</span>元</td>
+                                <td align="right">
+                                      <span class="nnn"> <a href="javascript:void(0)" class="mins">[-]</a>
+                                   <input name="goods_number" id="goods_number" value="{$d.goods_number}" size="4" class="inputBg" style="text-align: center;" onkeydown="showdiv(this)" type="text" data-id="{$d.goods_id}"/>
+                                    <a href="javascript:void(0)" class="plus">[+]</a></span>
+                                  
+                                </td>
+                                <td align="right">￥<span class="money"><php>echo getMoney($d[goods_price],$d[goods_number]);</php></span>元</td>
+                                <td align="center">
+                                    <a href="javascript:void(0)" class="del" data-id="{$d.goods_id}">删除</a>
+                                </td>
+                            </tr>
+                            </foreach>
+
+
+
+
+                        </tbody></table>
+                    <table cellpadding="5" cellspacing="1">
+                        <tbody><tr>
+                                <td>
+                                    购物金额总计 ￥<span class="total"></span>元              </td>
+                                <td align="right">
+                                    <input value="清空购物车" class="bnt_blue_1"  type="button" />
+                                    <input name="submit" class="bnt_blue_1" value="更新购物车" type="submit" />
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    <input name="step" value="update_cart" type="hidden" />
+                </form>
+                <table cellpadding="5" cellspacing="0" width="99%">
+                    <tbody><tr>
+                            <td><a href="#"><img src="__PUBLIC__/Home/images/continue.gif" alt="continue" /></a></td>
+                            <td align="right">
+                                <!-- 对这个a链接做一个判断，如果
+                                用户登录了直接去订单首页，否则弹出登录框 -->
+                                <if condition="session('uid')">
+                                <a href="{:U('order/index')}"><img src="__PUBLIC__/Home/images/checkout.gif" alt="checkout" /></a>
+                                <else/>
+                                <a href="javascript:void(0)" id="login"><img src="__PUBLIC__/Home/images/checkout.gif" alt="checkout" /></a>
+                                </if>
+                            </td>
+                        </tr>
+                    </tbody></table>
+            </div>
+            <div class="blank"></div>
+            <div class="blank5"></div>
+        </div>
+
+        <div class="blank"></div>
+        <script type="text/javascript">
+        // layer弹窗
+         $("#login").click(function(){
+                    //页面一打开就执行，放入ready是为了layer所需配件（css、扩展模块）加载完毕
+                    layer.ready(function(){ 
+                      layer.open({
+                          type: 1,
+                           title: '用户登录',
+                          skin: 'layui-layer-rim', //加上边框
+                          area: ['420px', '240px'], //宽高
+                          content: '<form action="" method="post" id="login_form"><table align="left" border="0" cellpadding="3" cellspacing="5" width="100%"><tbody><tr><td align="right" width="15%">用户名</td><td width="85%"><input name="username" size="25" class="inputBg" type="text"></td></tr><tr><td align="right">密码</td><td><input name="password" size="15" class="inputBg" type="password"></td></tr><tr><td colspan="2"><input value="1" name="remember" id="remember" type="checkbox"><label for="remember">保存信息下次自动登录。</label></td></tr><tr><td>&nbsp;</td><td align="left"><input  value="" onclick="login_submit()" class="us_Submit" type="button" /></td></tr><tr><td></td><td><a href="#" class="f3">密码问题找回密码</a>&nbsp;&nbsp;&nbsp;<a href="#" class="f3">注册邮件找回密码</a></td></tr></tbody></table></form>' 
+                        });
+                    });
+                })
+
+        function login_submit(){
+            var username=$('input[name=username]').val();
+            var password=$('input[name=password]').val();
+            // alert()
+            //发送ajax请求
+            $.post('{:U("login/login")}',{'username':username,'password':password},function(data){
+               if(data.status==1){
+                location.href="{:U('order/index')}"
+               }else{
+                    layer.msg(data.info);
+               }
+            })
+        }
+
+
+        
+
+        function subtotal(){
+            var a=0;
+        $('.money').each(function(){
+            a+=parseFloat($(this).text());
+             $('.total').text(a)
+        })
+        }
+
+        subtotal();
+       
+           $('.del').click(function(){
+                var id=$(this).attr('data-id');
+                var _this=$(this);
+                $.get('{:U("Carts/del")}',{'id':id},function(data){
+                    if(data.status==1){
+                        _this.parents('tr').remove();
+                         subtotal();
+                    }
+                })
+           })
+
+
+           $('.plus').click(function(){
+                getChange($(this),"+");
+ 
+           })
+
+
+            $('.mins').click(function(){
+                 getChange($(this),"-");
+           })
+
+            function getChange(_this,type){
+                var id= _this.parent('.nnn').find(":input").val()
+               var goods_id=_this.parent('.nnn').find(":input").attr('data-id')
+               if(type=="+"){
+                id++
+               
+               }else if(type=="-"){
+                if(id>1){
+                    id--;
+                }
+               }
+
+               var xiaoji=id*_this.parents('tr').find('.pri').text();
+               id*_this.parents('tr').find('.money').text(xiaoji)
+                _this.parent('.nnn').find(":input").val(id)
+
+                var total=0;
+                $('.money').each(function(){
+                    total+=parseFloat($(this).text())
+                })
+                $('.total').text(total);
+                 //发送ajax请求
+               $.get('{:U("Carts/edit")}',{'goods_number':id,'goods_id':goods_id},function(data){
+
+               })
+
+            }
+        </script>
+  

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <form method="post" action="{:U('login/login')}">
+        姓名：<input type="text" name="name">
+        密码：<input type="text" name="passwd">
+        验证码：<input type="text" name="captcha"><img src="{:U('login/verify')}" alt="" id="img">
+        <input type="submit" value="提交">
+    </form>
+</body>
+</html>
+<script type="text/javascript">
+            img.onclick=function(){
+                this.src="__CONTROLLER__/verify/t/".Math.random();
+            }
+    
+</script>

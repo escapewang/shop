@@ -1,0 +1,287 @@
+
+
+        <div class="block box">
+            <div class="blank"></div>
+            <div id="ur_here">
+                当前位置: <a href="#">首页</a> <code>&gt;</code> 购物流程 
+            </div>
+        </div>
+
+        <div class="blank"></div>
+        <div class="blank"></div>
+
+        <div class="block">
+            <form action="{:U('order/add')}" method="post" name="theForm" id="theForm" >
+                <div class="flowBox">
+                    <h6><span>商品列表</span><a href="#" class="f6">修改</a></h6>
+                    <table cellpadding="5" cellspacing="1" width="99%">
+                        <tbody><tr>
+                                <th>商品名称</th>
+                                <th>属性</th>
+                                <th>市场价</th>
+                                <th>本店价</th>
+                                <th>购买数量</th>
+                                <th>小计</th>
+                            </tr>
+                            <foreach name="cartdatas" item="d">
+                            <tr>
+
+                                <td>
+                                     <input type="checkbox" name="cart_id[]" value="{$d.id}">
+                                    <img src="__PUBLIC__/Upload/goods/{$d.goods_thumb_img}" alt=""><br>
+                                    <a href="#" target="_blank" class="f6">{$d.goods_title}</a>
+                                </td>
+                                    <td>
+                                  <foreach name="d.goods_attr" item="dd" key="key"> 
+                                {$key}:{$dd} <br>
+                               
+                                </foreach> 
+                                    </td>
+                                <td align="right">￥{$d.goods_mprice}元</td>
+                                <td align="right">￥{$d.goods_price}元</td>
+                                <td align="right">{$d.goods_number}</td>
+                                <td align="right">￥{$d.subtotal}元</td>
+                            </tr>
+                            </foreach>
+                            <tr>
+                                <td colspan="7">
+                                    购物金额小计 ￥{$total}元              </td>
+                            </tr>
+                        </tbody></table>
+                </div>
+                <div class="blank"></div>
+                <div class="flowBox">
+                    <h6><span>收货人信息</span> <a href="{:U('addressAdd')}"><span>添加信息</span></a></h6>
+                    <table cellpadding="5" cellspacing="1" width="99%">
+                        <tbody>
+                        <foreach name="address" item="d">
+                        <tr>
+                            <!-- if判断使可以直接写在input标签里面的 -->
+                                <td><input type="radio" name="address_id"  value="{$d.id}"
+                                    <if condition="$d['is_default'] eq 1">checked</if>></td>
+                                <td>{$d.uname}   {$d.address}  {$d.phone}</td>
+                                
+                            </tr>
+                        </foreach>    
+                           
+                        </tbody></table>
+                </div>
+                <div class="blank"></div>
+                <!-- <div class="flowBox">
+                    <h6><span>配送方式</span></h6>
+                    <table id="shippingTable" cellpadding="5" cellspacing="1" width="99%">
+                        <tbody><tr>
+                                <th width="5%">&nbsp;</th>
+                                <th width="25%">名称</th>
+                                <th>订购描述</th>
+                                <th width="15%">费用</th>
+                                <th width="15%">免费额度</th>
+                                <th width="15%">保价费用</th>
+                            </tr>
+                            <tr>
+                                <td valign="top"><input name="shipping" value="5"  type="radio" />
+                                </td>
+                                <td valign="top"><strong>申通快递</strong></td>
+                                <td valign="top">江、浙、沪地区首重为15元/KG，其他地区18元/KG， 续重均为5-6元/KG， 云南地区为8元</td>
+                                <td align="right" valign="top">￥15.00元</td>
+                                <td align="right" valign="top">￥0.00元</td>
+                                <td align="right" valign="top">不支持保价</td>
+                            </tr>
+                            <tr>
+                                <td valign="top"><input name="shipping" value="3"  type="radio" />
+                                </td>
+                                <td valign="top"><strong>城际快递</strong></td>
+                                <td valign="top">配送的运费是固定的</td>
+                                <td align="right" valign="top">￥10.00元</td>
+                                <td align="right" valign="top">￥100000.00元</td>
+                                <td align="right" valign="top">不支持保价</td>
+                            </tr>
+                            <tr>
+                                <td valign="top"><input name="shipping" value="6"   type="radio" />
+                                </td>
+                                <td valign="top"><strong>邮局平邮</strong></td>
+                                <td valign="top">邮局平邮的描述内容。</td>
+                                <td align="right" valign="top">￥3.50元</td>
+                                <td align="right" valign="top">￥50000.00元</td>
+                                <td align="right" valign="top">不支持保价</td>
+                            </tr>
+                            <tr>
+                                <td colspan="6" align="right"><label for="ECS_NEEDINSURE">
+                                        <input name="need_insure" id="ECS_NEEDINSURE"  value="1" disabled="true" type="checkbox" />
+                                        配送是否需要保价 </label></td>
+                            </tr>
+                        </tbody></table> -->
+                <!-- </div> -->
+                <div class="blank"></div>
+                <div class="flowBox">
+                    <h6><span>支付方式</span></h6>
+                    <table id="paymentTable" cellpadding="5" cellspacing="1" width="99%">
+                        <tbody><tr>
+                                <th width="5%">&nbsp;</th>
+                                <th width="20%">名称</th>
+                                <th>订购描述</th>
+                                <th width="15%">手续费</th>
+                            </tr>
+
+                            <tr>
+                                <td valign="top"><input name="pay_type" value="1" iscod="0" type="radio" /></td>
+                                <td valign="top"><strong>余额支付</strong></td>
+                                <td valign="top">使用帐户余额支付。只有会员才能使用，通过设置信用额度，可以透支。</td>
+                                <td align="right" valign="top">￥0.00元</td>
+                            </tr>
+                             <tr>
+                                <td valign="top"><input name="pay_type" value="2" iscod="0" type="radio" /></td>
+                                <td valign="top"><strong>支付宝支付</strong></td>
+                                <td valign="top">在线支付</td>
+                                <td align="right" valign="top">￥0.00元</td>
+                            </tr>
+
+                           <!--  <tr>
+                                <td valign="top"><input name="pay_type" value="2" iscod="0" type="radio" /></td>
+                                <td valign="top"><strong>银行汇款/转帐</strong></td>
+                                <td valign="top">银行名称
+                                    收款人信息：全称 ××× ；帐号或地址 ××× ；开户行 ×××。
+                                    注意事项：办理电汇时，请在电汇单“汇款用途”一栏处注明您的订单号。</td>
+                                <td align="right" valign="top">￥0.00元</td>
+                            </tr> -->
+
+                           
+                        </tbody></table>
+                </div>
+                <div class="blank"></div>
+                <!-- <div class="flowBox">
+                    <h6><span>商品包装</span></h6>
+                    <table id="packTable" cellpadding="5" cellspacing="1" width="99%">
+                        <tbody><tr>
+                                <th scope="col" width="5%">&nbsp;</th>
+                                <th scope="col" width="35%">名称</th>
+                                <th scope="col" width="22%">价格</th>
+                                <th scope="col" width="22%">免费额度</th>
+                                <th scope="col">图片</th>
+                            </tr>
+                            <tr>
+                                <td valign="top"><input name="pack" value="0" checked="checked" type="radio" /></td>
+                                <td valign="top"><strong>不要包装</strong></td>
+                                <td valign="top">&nbsp;</td>
+                                <td valign="top">&nbsp;</td>
+                                <td valign="top">&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td valign="top"><input name="pack" value="1" type="radio" />
+                                </td>
+                                <td valign="top"><strong>精品包装</strong></td>
+                                <td align="right" valign="top">￥5.00元</td>
+                                <td align="right" valign="top">￥800.00元</td>
+                                <td valign="top">
+                                    <a href="#" target="_blank" class="f6">查看</a>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <div class="blank"></div> -->
+<!-- 
+                <div class="flowBox">
+                    <h6><span>祝福贺卡</span></h6>
+                    <table id="cardTable" cellpadding="5" cellspacing="1" width="99%">
+                        <tbody><tr>
+                                <th scope="col" width="5%">&nbsp;</th>
+                                <th scope="col" width="35%">名称</th>
+                                <th scope="col" width="22%">价格</th>
+                                <th scope="col" width="22%">免费额度</th>
+                                <th scope="col">图片</th>
+                            </tr>
+                            <tr>
+                                <td valign="top"><input name="card" value="0" checked="checked" onclick="selectCard(this)" type="radio" /></td>
+                                <td valign="top"><strong>不要贺卡</strong></td>
+                                <td valign="top">&nbsp;</td>
+                                <td valign="top">&nbsp;</td>
+                                <td valign="top">&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td valign="top"><input name="card" value="1" onclick="selectCard(this)" type="radio" />
+                                </td>
+                                <td valign="top"><strong>祝福贺卡</strong></td>
+                                <td align="right" valign="top">￥5.00元</td>
+                                <td align="right" valign="top">￥1000.00元</td>
+                                <td valign="top">
+                                    <a href="#" target="_blank" class="f6">查看</a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td valign="top"><strong>祝福语:</strong></td>
+                                <td colspan="3"><textarea name="card_message" cols="60" rows="3" style="width: auto; border: 1px solid rgb(204, 204, 204);"></textarea></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <div class="blank"></div> -->
+<!-- 
+                <div class="flowBox">
+                    <h6><span>其它信息</span></h6>
+                    <table cellpadding="5" cellspacing="1" width="99%">
+                        <tbody><tr>
+                                <td><strong>使用红包:</strong></td>
+                                <td>
+                                    选择已有红包                <select name="bonus" onchange="changeBonus(this.value)" id="ECS_BONUS" style="border: 1px solid rgb(204, 204, 204);">
+                                        <option value="0" selected="selected">请选择</option>
+                                    </select>
+
+                                    或者输入红包序列号               <input name="bonus_sn" class="inputBg" size="15" type="text" /> 
+
+                                    <input name="validate_bonus" class="bnt_blue_1" value="验证红包"  style="vertical-align: middle;" type="button" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td valign="top"><strong>订单附言:</strong></td>
+                                <td><textarea name="postscript" cols="80" rows="3" id="postscript" style="border: 1px solid rgb(204, 204, 204);"></textarea></td>
+                            </tr>
+                            <tr>
+                                <td><strong>缺货处理:</strong></td>
+                                <td>                <label>
+                                        <input name="how_oos" value="0" checked="checked" type="radio" />
+                                        等待所有商品备齐后再发</label>
+                                    <label>
+                                        <input name="how_oos" value="1" type="radio" />
+                                        取消订单</label>
+                                    <label>
+                                        <input name="how_oos" value="2" type="radio" />
+                                        与店主协商</label>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div> -->
+                <div class="blank"></div>
+                <div class="flowBox">
+                    <h6><span>费用总计</span></h6>
+                    <div id="ECS_ORDERTOTAL">
+                        <table cellpadding="5" cellspacing="1" width="99%">
+                            <tbody><!-- <tr>
+                                    <td align="right">    该订单完成后，您将获得            <font class="f4_b">5010</font> 积分            ，以及价值               <font class="f4_b">￥0.00元</font>的红包。
+                                    </td>
+                                </tr> -->
+                                <tr>
+                                    <td align="right">
+                                        商品总价: <font class="f4_b">￥{$total}元</font>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="right"> 应付款金额: <font class="f4_b">￥{$total}元</font>
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                    </div>           <div style="margin: 8px auto;">
+                        <input src="__PUBLIC__/Home/images/bnt_subOrder.gif" type="submit" />
+                        <input name="step" value="done" type="hidden" />
+                    </div>
+                </div>
+            </form>
+        </div>
+
+        <div class="blank"></div>
+
+        

@@ -1,0 +1,6 @@
+<IfModule mod_rewrite.c>
+    Options +FollowSymlinks
+    RewriteEngine On
+
+    RewriteRule (.*).html $1.text
+</IfModule>
